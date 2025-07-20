@@ -107,4 +107,14 @@ If everything is configured correctly, running the notebook will produce an outp
 
 ## 📜 Citation
 
-**TBD**
+```bibtex
+@misc{EshghieMeaSelfRefining,
+      title={Repairing Language Model Pipelines by Meta Self-Refining Competing Constraints at Runtime}, 
+      author={Mojtaba Eshghie},
+      year={2025},
+      eprint={2507.10590},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2507.10590}, 
+}
+```
